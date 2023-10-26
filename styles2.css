@@ -1,6 +1,6 @@
     .text-rainbow {
         font-size: 90px;
-        background: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 255, 255), rgb(252, 252, 252));
+        background: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255));
         -webkit-background-clip: text;
         color: transparent;
         background-clip: text;
